@@ -1,0 +1,15 @@
+[submodule "aninerf"]
+	path = aninerf
+	url = https://github.com/dberga/aninerf.git
+[submodule "AnimatableGaussians"]
+	path = AnimatableGaussians
+	url = https://github.com/feceugur/AnimatableGaussians.git
+[submodule "pifuhd"]
+	path = pifuhd
+	url = https://github.com/feceugur/pifuhd.git
+[submodule "ECON"]
+	path = ECON
+	url = https://github.com/feceugur/ECON.git
+[submodule "SemanticGuidedHumanMatting"]
+	path = SemanticGuidedHumanMatting
+	url = https://github.com/feceugur/SemanticGuidedHumanMatting.git
