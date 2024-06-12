@@ -13,3 +13,27 @@
 [submodule "SemanticGuidedHumanMatting"]
 	path = SemanticGuidedHumanMatting
 	url = https://github.com/feceugur/SemanticGuidedHumanMatting.git
+[submodule "LightweightOpenPose"]
+	path = LightweightOpenPose
+	url = https://github.com/feceugur/lightweight-human-pose-estimation.pytorch.git
+[submodule "vid2avatar"]
+	path = vid2avatar
+	url = https://github.com/MoyGcc/vid2avatar
+[submodule "HierarchicalProbabilistic3DHuman"]
+	path = HierarchicalProbabilistic3DHuman
+	url = https://github.com/akashsengupta1997/HierarchicalProbabilistic3DHuman.git
+[submodule "ARAH"]
+	path = ARAH
+	url = https://github.com/taconite/arah-release.git
+[submodule "3DGS-Avatar"]
+	path = 3DGS-Avatar
+	url = https://github.com/mikeqzy/3dgs-avatar-release.git
+[submodule "3D-Magic-Mirror"]
+	path = 3D-Magic-Mirror
+	url = https://github.com/layumi/3D-Magic-Mirror.git
+[submodule "CarveKit"]
+	path = CarveKit
+	url = https://github.com/OPHoperHPO/image-background-remove-tool.git
+[submodule "HRNet"]
+	path = HRNet
+	url = https://github.com/manhph2211/HRNet-Pose-Estimation.git
