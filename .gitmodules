@@ -37,3 +37,6 @@
 [submodule "HRNet"]
 	path = HRNet
 	url = https://github.com/manhph2211/HRNet-Pose-Estimation.git
+[submodule "Depth-Anything"]
+	path = Depth-Anything
+	url = https://github.com/LiheYoung/Depth-Anything
