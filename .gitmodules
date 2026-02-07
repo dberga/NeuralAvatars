@@ -43,3 +43,9 @@
 [submodule "MExECON"]
 	path = MExECON
 	url = https://github.com/feceugur/MExECON.git
+[submodule "RC-SMPL"]
+	path = RC-SMPL
+	url = https://github.com/hailsong/RC-SMPL.git
+[submodule "videoavatars"]
+	path = videoavatars
+	url = https://github.com/thmoa/videoavatars.git
