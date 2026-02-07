@@ -40,3 +40,6 @@
 [submodule "Depth-Anything"]
 	path = Depth-Anything
 	url = https://github.com/LiheYoung/Depth-Anything
+[submodule "MExECON"]
+	path = MExECON
+	url = https://github.com/feceugur/MExECON.git
