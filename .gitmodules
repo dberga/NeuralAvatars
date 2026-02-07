@@ -49,3 +49,9 @@
 [submodule "videoavatars"]
 	path = videoavatars
 	url = https://github.com/thmoa/videoavatars.git
+[submodule "Realtime_SMPLX_Unity"]
+	path = Realtime_SMPLX_Unity
+	url = https://github.com/sangho0n/Realtime_SMPLX_Unity.git
+[submodule "SMPLSim"]
+	path = SMPLSim
+	url = https://github.com/ZhengyiLuo/SMPLSim.git
